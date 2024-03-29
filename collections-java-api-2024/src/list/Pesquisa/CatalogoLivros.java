@@ -62,6 +62,8 @@ public class CatalogoLivros {
         catalogoLivros.adicionarLivro("teste", "teste", 1881);
 
         System.out.println(catalogoLivros.pesquisarPorAutor("teste"));
+        System.out.println(catalogoLivros.pesquisarPorTitulo( "Os Lusíadas" ) );
+        System.out.println(catalogoLivros.pesqisarPorIntervaloAnos(1500, 1600));
     }
     
 }
