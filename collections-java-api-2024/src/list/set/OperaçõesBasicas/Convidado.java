@@ -1,4 +1,4 @@
-package list.set;
+package list.set.OperaçõesBasicas;
 
 public class Convidado {
 
@@ -8,11 +8,11 @@ public class Convidado {
     private int codigoConvite;
     
     //construtor padrão
-    
     public Convidado(String nome, int codigoConvite){
-        this.nome = "nome";
+        this.nome = nome;
         this.codigoConvite = codigoConvite;
     }
+    //geters
     public String getNome() {
         return nome;
     }

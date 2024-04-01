@@ -3,10 +3,15 @@
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"],
   "cSpell.words": [
+    "adcicionar",
     "Bortolato",
     "codigo",
+    "Cotato",
     "Creusebéquio",
+    "geters",
+    "metodos",
     "Numeros",
-    "Ordenacao"
+    "Ordenacao",
+    "preco"
   ]
 }
