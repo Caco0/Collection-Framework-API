@@ -13,5 +13,6 @@
     "Numeros",
     "Ordenacao",
     "preco"
-  ]
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }

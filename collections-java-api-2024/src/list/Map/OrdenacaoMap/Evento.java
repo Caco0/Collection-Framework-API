@@ -20,10 +20,10 @@ public class Evento {
     public String getAtracao() {
         return atracao;
     }
-    
+
     @Override
     public String toString() {
-        return "Evento nome=" + nome + ", atracao=" + atracao + "\n";
+        return "Evento nome= " + nome + ", atracao= " + atracao + "\n";
     }
     
 }
