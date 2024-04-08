@@ -2,10 +2,8 @@ package list.Map.OrdenacaoMap;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
 import java.util.TreeMap;
 
 public class AgendaEventos {
